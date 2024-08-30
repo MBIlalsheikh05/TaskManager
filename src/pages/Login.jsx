@@ -31,8 +31,8 @@ const Login = () => {
               Manage all your tasks in one place!
             </span>
             <p className='flex flex-col gap-0 md:gap-4 text-4xl md:text-6xl 2xl:text-7xl font-black text-center text-blue-700'>
-{/*               <span>Cloud-Based</span> */}
-              <span>Task Manager</span>
+              <span>Task Management</span>
+              <span>System</span>
             </p>
             <div className='cell'>
               <div className='circle rotate-in-up-left'></div>
